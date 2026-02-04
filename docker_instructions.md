@@ -88,6 +88,12 @@ Building the image for the first time should take a while.
 
 To run the image and access the notebooks follow Step 2, 3 and 4 from Option 1 above.
 
+As soon as you succesfully started the jupyter notebook server, open a terminal and enter this command to a 1.x version of Pandas:
+
+```
+pip install pandas==1.5.3
+```
+
 
 
 ## Troubleshooting
